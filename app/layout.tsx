@@ -4,7 +4,7 @@ import "./globals.css";
 
 const notoSerifTC = Noto_Serif_TC({
   variable: "--font-noto-serif-tc",
-  subsets: ["chinese-traditional"],
+  subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
 });
 
